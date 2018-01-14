@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg52"
+   version="1.1"
+   height="32"
+   width="64">
+  <defs
+     id="defs25">
+    <clipPath
+       id="clipPath3837">
+      <use
+         id="use2"
+         xlink:href="#rect3815"
+         height="1"
+         width="1"
+         transform="matrix(1.5962 0 0 1.1272 -.65256 -9.0412)" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.414"
+       width="1.0663"
+       y="-.20702"
+       x="-.033146"
+       id="filter3849">
+      <feGaussianBlur
+         id="feGaussianBlur5"
+         stdDeviation="2.8087169" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.0814"
+       width="1.2469"
+       y="-.040709"
+       x="-.12343"
+       id="filter3865">
+      <feGaussianBlur
+         id="feGaussianBlur8"
+         stdDeviation="1.3339644" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(.62647 0 0 .88714 .40881 8.0208)"
+       y2="29.367"
+       y1="29.367"
+       x2="194.19"
+       x1="10.012"
+       id="linearGradient3890">
+      <stop
+         id="stop11"
+         offset="0"
+         stop-color="#d8d8d8" />
+      <stop
+         id="stop13"
+         offset=".47753"
+         stop-color="#d8d8d8" />
+      <stop
+         id="stop15"
+         offset="1"
+         stop-color="#b1b1b1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(.62647 0 0 .88714 .40881 8.0208)"
+       y2="3.9798"
+       y1="3.9798"
+       x2="193.92"
+       x1="10.288"
+       id="linearGradient3892">
+      <stop
+         id="stop18"
+         offset="0"
+         stop-color="#959595" />
+      <stop
+         id="stop20"
+         offset=".97345"
+         stop-color="#565656" />
+      <stop
+         id="stop22"
+         offset="1"
+         stop-color="#fff" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g50"
+     transform="translate(-1.7513 -39.965)">
+    <g
+       id="g48"
+       transform="matrix(.4993 0 0 .50167 .87685 35.862)">
+      <g
+         id="g35"
+         clip-path="url(#clipPath3837)"
+         transform="matrix(.62647 0 0 .88714 .40881 8.0208)">
+        <path
+           id="path29"
+           fill="#656565"
+           color="#000000"
+           d="m-0.8125-7.1875 0.40625 2.25-5.125 4.9062-2.75 70.094 18.216 12.437 17.926-33.404-8.0796-34.689 171.19-2 24.812-16z" />
+        <path
+           id="path31"
+           filter="url(#filter3865)"
+           fill="#d6d6d6"
+           color="#000000"
+           d="m187.92 5.4975c3.8632-0.82783 28.146-6.0708 28.146-6.0708l-0.27594 72.573-12.417 6.8986-16.281-24.283z" />
+        <path
+           id="path33"
+           filter="url(#filter3849)"
+           fill="#939393"
+           color="#000000"
+           d="m3.5873 74.759 12.969-26.767 167.5-2.7594 21.8 26.767 1.1038 18.212-209.44 3.3113z" />
+      </g>
+      <g
+         id="g42">
+        <rect
+           stroke-width="1.1182"
+           stroke="#727272"
+           fill="none"
+           color="#000000"
+           ry="5.3856"
+           rx="3.8032"
+           height="62.669"
+           width="127.06"
+           y="8.7362"
+           x="2.3104"
+           id="rect3815" />
+        <rect
+           id="rect38"
+           stroke-width=".7455"
+           stroke="url(#linearGradient3892)"
+           fill="url(#linearGradient3890)"
+           color="#000000"
+           ry="5.3856"
+           rx="3.8032"
+           height="48.716"
+           width="114.44"
+           y="9.7154"
+           x="7.1508" />
+        <path
+           id="path40"
+           stroke-width="1.699"
+           stroke="#4d4d4d"
+           fill="none"
+           color="#000000"
+           d="m14.855 36.489h-4.4571l9.4713-13.412 9.8427 13.938h-4.6428v8.6785h-10.586z" />
+      </g>
+      <text
+         id="text46"
+         xml:space="preserve"
+         style="line-height:1.25"
+         word-spacing="0px"
+         letter-spacing="0px"
+         font-size="32px"
+         font-family="sans-serif"
+         fill="#4d4d4d"
+         y="46.136387"
+         x="36.155289"><tspan
+           id="tspan44"
+           font-weight="bold"
+           font-size="32px"
+           font-family="arial"
+           fill="#4d4d4d"
+           y="46.136387"
+           x="36.155289">Shift</tspan></text>
+    </g>
+  </g>
+</svg>
