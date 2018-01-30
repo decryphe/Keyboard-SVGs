@@ -120,10 +120,10 @@ words = {
 }
 
 font_path = 'courierbd.ttf'
-font_size = 24
+font_size = 18
 font = ImageFont.truetype(font_path, font_size)
 
-padding = 5
+padding = 3
 stroke_width = 1
 shadow_width = 3
 
@@ -147,7 +147,7 @@ for key in words.keys():
     height = font_size
 
     bg = Image.new("RGB", (width + padding * 2, height + padding * 2), "#d8d8d8")
-    loc_x = int((bg.size[0] - img.size[0]) / 2)
+    loc_x = int((bg.size[0] - img.size[0]) / 2) + int((shadow_width) / 2)
     loc_y = int((bg.size[1] - img.size[1]) / 2)
 
     bg.paste(img, (loc_x, loc_y), mask=img.split()[3])
