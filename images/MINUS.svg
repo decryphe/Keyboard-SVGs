@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <rect width="24.8px" height="24.8px" fill="#939393"/>
-    <rect width="23px" height="23px" fill="#d8d8d8" stroke="#939393" stroke-width="0.5px"/>
-    <text fill="#4d4d4d" x="6.9px" y="16.9px" font-size="18px" font-family="Courier" font-weight="bold">-</text>
+<svg width="24.8px" height="24.8px" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24.8" height="24.8" fill="#939393"/>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"/>
+    <text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">-</text>
 </svg>

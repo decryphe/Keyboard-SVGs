@@ -38,10 +38,10 @@ def make_svg(string, font_size):
         y = int(y)
 
     svg = [
-        '<svg xmlns="http://www.w3.org/2000/svg">',
-        '    <rect width="' + str(svg_width) + 'px" height="' + str(svg_height) + 'px" fill="#939393"/>',
-        '    <rect width="' + str(rect_width) + 'px" height="' + str(rect_height) + 'px" fill="#d8d8d8" stroke="#939393" stroke-width="' + str(stroke_width) + 'px"/>',
-        '    <text fill="#4d4d4d" x="' + str(x) + 'px" y="' + str(y) + 'px" font-size="' + str(font_size) + 'px" font-family="Courier" font-weight="bold">' + string + '</text>',
+        '<svg width="' + str(svg_width) + 'px" height="' + str(svg_height) + 'px" xmlns="http://www.w3.org/2000/svg">',
+        '    <rect width="' + str(svg_width) + '" height="' + str(svg_height) + '" fill="#939393"/>',
+        '    <rect width="' + str(rect_width) + '" height="' + str(rect_height) + '" fill="#d8d8d8" stroke="#939393" stroke-width="' + str(stroke_width) + '"/>',
+        '    <text fill="#4d4d4d" x="' + str(x) + '" y="' + str(y) + '" font-size="' + str(font_size) + '" font-family="Courier" font-weight="bold">' + string + '</text>',
         '</svg>'
     ]
 

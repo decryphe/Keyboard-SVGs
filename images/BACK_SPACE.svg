@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <rect width="119.8px" height="24.8px" fill="#939393"/>
-    <rect width="118px" height="23px" fill="#d8d8d8" stroke="#939393" stroke-width="0.5px"/>
-    <text fill="#4d4d4d" x="6.3px" y="15.9px" font-size="18px" font-family="Courier" font-weight="bold">Backspace</text>
+<svg width="119.8px" height="24.8px" xmlns="http://www.w3.org/2000/svg">
+    <rect width="119.8" height="24.8" fill="#939393"/>
+    <rect width="118" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"/>
+    <text fill="#4d4d4d" x="6.3" y="15.9" font-size="18" font-family="Courier" font-weight="bold">Backspace</text>
 </svg>
