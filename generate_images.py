@@ -66,6 +66,8 @@ words = {
     "SLASH": "/",
     "BACK_SLASH": "\\",
     "EQUAL": "=",
+    "PLUS": "+",
+    "MINUS": "-",
     "LEFT_BRACKET": "[",
     "RIGHT_BRACKET": "]",
     "LEFT_ARROW": "Left",
