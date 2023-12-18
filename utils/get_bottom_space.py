@@ -24,7 +24,7 @@ def get_bottom_space(string, font_size):
     color = (0, 0, 0, 255)
     draw.text((x, y), string + "A", fill=color, font=font)
 
-    img.save('/home/doakey/Desktop/hello.png')
+    img.save('temp.png')
 
     diff_y = img.size[1] - standard_height
 
